@@ -235,20 +235,16 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+RASTINBLOWNDY (@RUBAH)
+AMIN DELTA (@NewLashi)
 
 Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
+mahdi __ logo bot
+
+
+
 
 Our channels:
-English: @TeleSeedCH
 Persian: @IranSeed
 ]],
     help_text_realm = [[
